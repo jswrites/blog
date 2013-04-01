@@ -1,0 +1,88 @@
+=Blogging=
+I have been blogging for almost six years now. Starting as a technical blogger
+and later maintaining an online diary to track the personal events of my life,
+my experience with blogging has always been a pleasant one. I started
+blogging after hearing an interesting talk on blogging in a college technical
+festival. Since then, I have been a frequent blogger. With the busy schedules as
+a developer and now a researcher, the number of blog posts that I have been
+writing has reduced significantly. And now I am in a state where I haven't
+blogged for months. But deep down my vast sea of thoughts,the desire to blog
+still remains.
+
+I have almost tried with every big blogging platform in the market. But I
+disliked one or the other default features.Instead of ranting about this
+displeasure, I kept blogging. But blogging has now taken a different shape in my
+life. On one hand, reading blogs from people from different parts of the world
+not only helped me to improve my vocabulary and word usage, but also it helped
+me to understand the various cultures, traditions and lifestyle. It made me
+realize the different audience around the world. Experiments has always been
+part of my life and career. Being a developer and a researcher, testing new
+ideas is not remote to me. With every experiment, a new lesson is learnt and in
+some cases, some old hypothesis is confirmed. 
+
+As mentioned before, I haven't posted for quite a long time. But it was also a
+sort of background preparation for some experimentation with blogging. I would
+call it the Blogging 2.0 of my life. Before explaining this second version, I
+would first like to explain what exactly was Blogging 1.0 for me
+
+* '''Dependence on Blogging Platforms''': Name any major blogging platform, I have
+posted on them for a while, only to close the account at a later point of time.
+My major complaint with these blogging platforms is that they behave in 'One
+size fits all' approach. Every time I wished to change something whether it be
+the theme or the layout, either it's not possible or deactivated deliberately.
+It means that I had to be satisfied with the default features. As a programmer,
+it sometimes frustrated me.
+* '''Analytics''': One can call it a boon, I personally feel that 'analytics' is a
+distracting element of any major platform. You can't deactivate this feature.
+There are various reasons that I dislike analytics. I believe that all these
+points of disagreement is of course, a great opportunity for many. I blog
+because of my desire to do so, to create an online space for my thoughts. But
+what analytics offers me is to give me an idea about the query search strings
+that redirected them to my blog. For people involved in search engine
+optimization(SEO), they would like to make the best use of it to create new
+content. In short, now they write posts that suits their audience. But this is
+not my intent with blogging. I blog because I like to do so. And I don't want to
+write for any specific audience. I end up checking the number of visitors and
+the unique visitors quite often. I consider such an act of mine a total wastage
+of time.
+* '''Likes and Comments''': This is a very controversial topic for me. I still
+struggle to answer this question. Should I enable or disable commenting? On one
+hand, it helps me to understand the point of views of the audience. But then on
+the other hand, I am still reduced to being a blogger for the audience. With the
+recent social networking frenzy of past few years, I often feel that a new trend
+has emerged up in the blogging world, 'You give me a like, And I will give you
+too' or 'I comment, You comment'. Commenting or the appreciating a piece of work
+just for namesake. Sorry to state that such a behavior doesn't amuse me at all.
+
+I am sure that there will be people who disagree with me. And I respect that
+disagreement. But I wanted to put forth my point of view. Should I call this a
+rant? No, I don't think so. I would rather call Blogging 1.0 as the stepping
+stone for Blogging 2.0, the stepping stone.  Blogging 1.0 helped me to
+understand clearly what I want. And I can sum it up as '''Blogging without
+distraction'''.
+
+So what's '''''Blogging 2.0''''' for me?
+* '''A distraction-free textual writing''': No more web based blogging editors. No more
+searching in the internet for options to add a link, an image or any
+multimedia. Just plain 'textual' writing. And not even HTML (5.0) to jot down my
+thoughts. I have decided to use the ''wiki markup'' to write my thoughts. I use
+textual editors like 'vim' that help me to focus on my content and just on my
+content.
+* '''Using a version control to track changes''': As a researcher, one thing
+that I am aware of is that sometimes it's the lack of data (or evidence) that
+hinders the development of new hypothesis. Yes, I am aware of the fact that the
+current decade is often referred to a period of 'Big Data'. And that's the
+reason, I also want to track the changes in my writing. If I make a change in a
+post, I would like to know when and why I made the change (Some blogging
+platforms  do provide this feature, but it's more of an internal feature 
+representation. But I want a more open option)
+* '''No comments and no analytics''': I don't wish to add any script that allows
+commenting or tracking.
+
+How would I measure the results of Blogging 2.0? If I am able to achieve what I
+want from my writing, the great inner satisfaction that one feels on receiving
+something that one considers as the most valuable.
+
+I just hope that Blogging 2.0 will help me to achieve what I want from writing.
+Will there be Blogging 3.0 phase? Of course, the answer is yes. Life's an
+experiment with new things to learn every moment
