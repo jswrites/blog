@@ -86,3 +86,5 @@ something that one considers as the most valuable.
 I just hope that Blogging 2.0 will help me to achieve what I want from writing.
 Will there be Blogging 3.0 phase? Of course, the answer is yes. Life's an
 experiment with new things to learn every moment
+
+=JS=
